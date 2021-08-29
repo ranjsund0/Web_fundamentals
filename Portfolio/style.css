@@ -1,0 +1,137 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper {
+    width: 970px;
+    height: 900px;
+    background-color: #f7f7f7;
+}
+
+.header h1{
+    display: inline-block;
+    font-family: 'Comic Neue', cursive;
+    padding: 10px;
+}
+
+.header h2{
+    display: inline-block;
+    padding: 10px;
+    margin-left: 350px;
+}
+
+.main {
+    background-image: linear-gradient(to bottom right, #1c0d10, #6f5a63);
+    width: 970px;
+    height: 800px;
+
+}
+
+.main img {
+    width: 300px; 
+    border: 5px solid #8b8996;
+    margin: 15px;
+    height: 197px;
+    padding: 18px;
+}
+
+.about {
+    display: inline-block;
+    background-image: linear-gradient(to bottom right, #fffeff, #dbcdda);
+    width: 531px;
+    vertical-align: top;
+    margin-top:  15px;
+    margin-left: 40px;
+    height: 242px;
+}
+.about h3 {
+    background-color: gray;
+    color: white;
+
+}
+
+.about p, .about a {
+    padding: 10px;
+    color: black;
+}
+
+.boxes {
+    width: 300px;
+    background-color: white;
+    margin-left: 15px;
+    display: inline-block;
+}
+
+.boxes h2 {
+    width: 291px;
+    margin: 0px;
+    background-color: gray;
+    height: 34px;
+    padding-left: 10px;
+}
+
+.boxes img{
+    width: 281px;
+    height: auto;
+    margin: 0px;
+    border: none;
+    padding: 0px;
+}
+.boxes p{
+    font-size: 15px;
+}
+.boxes h3 {
+    background-color: gray;
+    color: white;
+    padding: 5px;
+}
+
+.pics img {
+    width: 40px;
+    height: 40px;
+}
+.pics {
+    padding: 15px 0 0 12px;
+}
+
+
+.pics li{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.boxes button{
+    background-color: green;
+    color: white;
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 5px;
+    margin: 10px 100px;
+}
+.footer {
+    width: 960px;
+    height: 50px;
+}
+
+.footer p {
+    width: 240px;
+    margin: auto;
+}
+.footer ul{
+    width: 380px;
+    margin: auto;
+}
+.footer ul li {
+    display: inline-block;
+}
+.footer img {
+    width: 20px;
+    height: auto;
+    margin: auto;
+}
+
+.footer a{
+    padding: 3px;
+
+}
